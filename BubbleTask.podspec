@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BubbleTask'
-  s.version          = '0.0.1'
+  s.version          = '0.3.0'
   s.summary          = 'A short description of BubbleTask.'
 
   s.homepage         = 'https://github.com/raulmax319/bubbletask'
