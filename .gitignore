@@ -35,5 +35,8 @@ Carthage/Build
 #
 Pods/
 
-.vscode
+# Generated frameworks
+#
+*.xcframework
 
+.vscode
